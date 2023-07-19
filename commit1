@@ -1,0 +1,9 @@
+{
+     "repositories":[
+         {
+             "repository":"{{respository0}}",
+             "branch":"main",
+             "collection_interval":"dynamic"
+             }
+        ]
+}
